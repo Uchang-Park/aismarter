@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791033874787,
+      "tag": "0000_create_trial_requests",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791421200000,
+      "tag": "0001_create_contact_inquiries",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791423000000,
+      "tag": "0002_add_contact_inquiry_category",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791425400000,
+      "tag": "0003_create_chat_messages",
+      "breakpoints": true
+    }
+  ]
+}
