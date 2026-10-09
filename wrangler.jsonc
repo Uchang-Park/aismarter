@@ -1,0 +1,9 @@
+{
+  "name": "aismarter",
+  // Public values only. Set SUPABASE_SERVICE_ROLE_KEY as an encrypted secret in the Cloudflare dashboard.
+  "vars": {
+    "SUPABASE_PROJECT_ID": "tzffapkxdrsxbdeaancg",
+    "SUPABASE_URL": "https://tzffapkxdrsxbdeaancg.supabase.co",
+    "SUPABASE_PUBLISHABLE_KEY": "sb_publishable_nxbjFJdYoD2qk2mFVo3q2w_b8bhXi7c"
+  }
+}
